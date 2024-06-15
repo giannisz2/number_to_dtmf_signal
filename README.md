@@ -1,2 +1,2 @@
-# number_to_dtmf_signal
-Number to DTMF signal in Matlab
+# Number to DTMF signal in Matlab
+This function takes a number and converts in to DTMF signal based on DTMF frequencies .
